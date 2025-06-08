@@ -14,7 +14,7 @@
 
 本课程的结构设计让您有很多机会亲自练习编写和排除提示故障。课程分为**9个章节和配套练习**，以及一个包含更多高级方法的附录。建议您**按章节顺序完成课程**。
 
-**每个课程都有一个"示例实验区"**，位于课程底部，您可以自由地试验课程中的示例，亲自看看改变提示如何改变 Claude 的响应。还有一个[答案键](https://docs.google.com/spreadsheets/d/1jIxjzUWG-6xBVIa2ay6yDpLyeuOh_hR_ZB75a47KX_E/edit?usp=sharing)。
+**每个课程都有一个"示例实验区"**，位于课程底部，您可以自由地试验课程中的示例，亲自看看改变提示如何改变 Claude 的响应。还有一个[参考答案](https://docs.google.com/spreadsheets/d/1jIxjzUWG-6xBVIa2ay6yDpLyeuOh_hR_ZB75a47KX_E/edit?usp=sharing)。
 
 注意：本教程使用我们最小、最快、最便宜的模型 Claude 3 Haiku。Anthropic 还有[两个其他模型](https://docs.anthropic.com/claude/docs/models-overview)，Claude 3 Sonnet 和 Claude 3 Opus，它们比 Haiku 更智能，其中 Opus 是最智能的。
 
@@ -26,9 +26,7 @@
 
 每个章节包含一个课程和一套练习。
 
-## 开始教程 (Getting Started)
-
-**[00_Tutorial_How-To_中文 (教程使用指南)](./Anthropic%201P/00_Tutorial_How-To_中文.ipynb)** - 开始学习前请先阅读此使用指南
+**[00_Tutorial_How-To_中文 (教程使用指南)](./Anthropic%201P/00_Tutorial_How-To_中文.ipynb)** - 开始学习前请先阅读此使用指南 (*译者添加此行*)
 
 ### 初级
 - **第1章：** 基本提示结构 (Basic Prompt Structure)
