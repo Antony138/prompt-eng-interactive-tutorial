@@ -26,6 +26,10 @@
 
 每个章节包含一个课程和一套练习。
 
+## 开始教程 (Getting Started)
+
+**[00_Tutorial_How-To_中文 (教程使用指南)](./Anthropic%201P/00_Tutorial_How-To_中文.ipynb)** - 开始学习前请先阅读此使用指南
+
 ### 初级
 - **第1章：** 基本提示结构 (Basic Prompt Structure)
 
